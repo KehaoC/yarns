@@ -46,7 +46,7 @@
 	•	深入探索 AI + Web3 + 社交结合。
 	•	2025：
 	•	成立三顾科技（Triody），控股并孵化多方向项目。
-	•	价值互联网（Snowverse/OutBox/Portfolio）。
+	•	价值互联网（yarns/OutBox/Portfolio）。
 	•	逐步形成价值互联网 + Agent 分身 + 故事资产化的宏大愿景。
 
 🔮 我的潜在需求

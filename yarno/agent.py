@@ -9,7 +9,7 @@ class Agent:
     def excute(self, requirement, context):
         print(f"Executing requirement: {requirement['name']}")
         time.sleep(2)
-        result = f"Uploaded your context as a agent in snowverse"
+        result = f"Uploaded your context as a agent in yarns"
         return result
     
 
@@ -38,7 +38,7 @@ def request_authorization(hint):
 
 def find_agent(requirement):
     # 查找能够执行需求的智能体
-    agent = Agent("Consultant", "snowverse agent")
+    agent = Agent("Consultant", "yarns agent")
     return agent
 
 def main():
