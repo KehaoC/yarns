@@ -1,0 +1,11 @@
+[
+    {
+      "id":"collector_fs@0.1.0",
+      "transport":"file-bus",
+      "card":{
+        "name":"File Collector",
+        "capabilities":["ingest-markdown","deduplicate"],
+        "pricing":{"currency":"YCOIN","base":1.0,"per_file":0.05}
+      }
+    }
+  ]

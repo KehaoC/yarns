@@ -1,0 +1,17 @@
+auth:
+  mode: "shared_secret"
+  shared_secret: ${SHARED_SECRET}
+
+economy:
+  currency: "YCOIN"
+  pricing_default:
+    base: 1.0
+    per_file: 0.05
+
+bidding:
+  selection: "first_qualified"
+  bid_ttl_s: 600
+  award_timeout_s: 90
+
+allow_agents:
+  - collector_fs@0.1.0
