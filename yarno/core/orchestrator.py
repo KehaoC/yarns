@@ -34,6 +34,7 @@ def one_loop():
     """
     只做生成假设，发布标书，写日报
     """
+    print("Scanning...")
     load_dotenv()
     ensure_ai_dirs()
 
